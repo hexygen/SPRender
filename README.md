@@ -24,7 +24,7 @@ This means you can *potentially* use it to improve your own figures created with
 However, the package is intended to be used as a one-stop solution for rendering a 3D shape,
 and as such provides the following capabilities:
 
-- Render a basic 3D shape with a single color (useful for e.g. shape retrieval papers).
+- Render a 3D shape with a single color (useful for e.g. shape retrieval papers).
 - Render a real-valued function over a shape.
 - Render a segmented shape. Segments can be visualized by highlighting their outline or coloring each segment in a different color. 
 The colors are designed to be eye catching and distinct while not being too flashy.
